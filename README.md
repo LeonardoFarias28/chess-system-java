@@ -1,5 +1,7 @@
 # chess-system-java
 
+- The Java chess system is a game project focused on working the Programming Logic and all OOP concepts.
+
 -<b> How to play </br></b>
 1º You need download the project for testing. </br>
 ![image](https://user-images.githubusercontent.com/34768673/129298852-a0f8a57c-531d-4300-afe3-1a3d372899c3.png)
